@@ -1,14 +1,7 @@
 # Oficina Mecânica SOAT
 
-Projeto acadêmico de Software Architecture da FIAP, organizado em serviços e infraestrutura independentes.
+Projeto acadêmico de Software Architecture da FIAP.
 
-## Repositórios
+➡️ [Acesse o repositório principal da Oficina Mecânica](https://github.com/oficina-mecanica-soat/oficina-mecanica-api)
 
-- [API principal](https://github.com/oficina-mecanica-soat/oficina-mecanica-api)
-- [Autenticação Lambda](https://github.com/oficina-mecanica-soat/oficina-mecanica-auth-lambda)
-- [API Gateway](https://github.com/oficina-mecanica-soat/oficina-mecanica-infra-api-gateway)
-- [Kubernetes](https://github.com/oficina-mecanica-soat/oficina-mecanica-infra-kubernetes)
-- [RDS](https://github.com/oficina-mecanica-soat/oficina-mecanica-infra-rds)
-- [VPC](https://github.com/oficina-mecanica-soat/oficina-mecanica-infra-vpc)
-
-A documentação técnica, as decisões arquiteturais e o planejamento do projeto ficam centralizados no repositório da API principal.
+A documentação, a arquitetura, o planejamento e as instruções para execução estão centralizados no repositório principal.
